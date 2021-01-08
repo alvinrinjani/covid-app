@@ -1,2 +1,4 @@
 covid-app
 - Aplikasi
+- Web
+- Project
